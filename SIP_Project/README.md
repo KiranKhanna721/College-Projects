@@ -7,7 +7,7 @@ Second, we are applying style transfer and deep dream methods to an image. Style
 
 Third, Image to image translation takes two images as an input. It aims to transfer images from a source domain to a target domain while preserving the content representations.
 ## Website
-### https://share.streamlit.io/kirankhanna721/sip_project/main/app.py
+### https://share.streamlit.io/kirankhanna721/college-projects/main/SIP_Project/app.py
 ### Tools we used to develop a website 
 opencv , different ml models , Gan  and streamlit (For web development)
 #### The main file to run is app.py , We can run our project by typing
